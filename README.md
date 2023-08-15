@@ -8,3 +8,6 @@ __Plataforma de videos, inspirada no Youtube, ao qual pude praticar conceitos de
 * Apliquei propriedades flex para: alterar o eixo principal de elementos e quebra de itens em linhas ou colunas;
 * Aplicar espaçamento entre itens;
 * Definir as diferenças entre display flex e inline-flex.
+* O uso correto da propriedade flex, align-self;
+* Definir as diferenças entre flex-item e flex-container;
+* Aprender como utilizar pseudo-classes;
